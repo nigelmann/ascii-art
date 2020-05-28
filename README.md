@@ -1,3 +1,3 @@
 # Collection of ascii shit/logos
 
-Fell fre to make a PR
+Fell free to make a PR
